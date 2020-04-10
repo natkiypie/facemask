@@ -1,0 +1,21 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 5em;
+}
+
+img {
+  width: 78%;
+  box-shadow: 2px 4px 8px 3px rgba(117, 117, 117, 0.2);
+  margin: auto;
+}
